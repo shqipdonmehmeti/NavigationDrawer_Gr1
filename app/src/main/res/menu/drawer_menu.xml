@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/notificationItem"
+        android:title="Njoftimet"
+        android:icon="@drawable/ic_notifications"
+        />
+    <item
+        android:id="@+id/exchangeItem"
+        android:title="Kursi i kembimeve"
+        android:icon="@drawable/ic_exchange"
+        />
+    <item
+        android:id="@+id/atmItem"
+        android:title="ATM"
+        android:icon="@drawable/ic_atm"
+        />
+    <item
+        android:id="@+id/contactItem"
+        android:title="Kontakti"
+        android:icon="@drawable/ic_phone"
+        />
+</menu>
